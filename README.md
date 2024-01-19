@@ -1,5 +1,5 @@
-<h1 align="center">Oi 👋, eu sou o Alan Reis</h1>
-<h3 align="center">Desenvolvedor Web</h3>
+<h1 align="center">Hi, i'm Alan Reis</h1>
+<h3 align="center">Web Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
