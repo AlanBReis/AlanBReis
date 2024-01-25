@@ -10,7 +10,7 @@
 <a href="https://twitter.com/alanzit0xz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alanzit0xz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alanbrreis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alanbrreis/" height="30" width="40" /></a>
 <a href="https://instagram.com/alanzit0x/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alanzit0x/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/users/nojo#0625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/nojo#0625" height="30" width="40" /></a>
+<a href="https://discord.com/users/nojo#0625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/nojo#0625" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens:</h3>
