@@ -1,6 +1,6 @@
 <h1 align="center">Oi, eu sou o Alan Reis</h1>
 <h3 align="center">Desenvolvedor Web</h3>
-<h3 align="center">🚀 Atualmente, me dedico a programação com foco em Node.js e Angular, confira meus projetos</h3>
+<h3 align="center">🚀 Atualmente, me dedico a programação com foco em Node.js e React, confira meus projetos</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanbreis&label=Profile%20views&color=0e75b6&style=flat" alt="alanbreis" /> </p>
