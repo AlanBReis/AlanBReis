@@ -1,6 +1,6 @@
 <h1 align="center">Oi, eu sou o Alan Reis</h1>
 <h3 align="center">Desenvolvedor Web</h3>
-<h3 align="center">Cursando engenharia de software, me dedico a programação com foco em Node.js e React, confira meus projetos</h3>
+<h3 align="center">Dedicando a programação com foco em Node.js e React, confira meus projetos</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanbreis&label=Profile%20views&color=0e75b6&style=flat" alt="alanbreis" /> </p>
@@ -15,7 +15,7 @@
 
 <h3 align="left">Minhas Skills:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,html,react,js,nodejs,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,html,react,ts,nodejs,&perline=3)](https://skillicons.dev)
 
 
 
