@@ -1,6 +1,6 @@
 <h1 align="center">Oi, eu sou o Alan Reis</h1>
-<h3 align="center">Desenvolvedor Web</h3>
-<h3 align="center">Cursando Eng. de Software Me dedico a programação com foco em Node.js, React e AWS, confira meus projetos</h3>
+<h3 align="center">Devops Enginner</h3>
+<h3 align="center">Cursando Eng. de Software Me dedico a programação com foco em Devops, confira meus projetos</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanbreis&label=Profile%20views&color=0e75b6&style=flat" alt="alanbreis" /> </p>
@@ -13,9 +13,6 @@
 <a href="https://discord.com/users/nojo#0625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/nojo#0625" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Minhas Skills:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,html,react,ts,nodejs,&perline=3)](https://skillicons.dev)
 
 
 
