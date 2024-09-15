@@ -13,7 +13,10 @@
 
 <h2 align="left">Projetos Destacados</h2>
 <ul>
-  <li><a href="https://github.com/AlanBReis/pipeline-automatizado">pipeline-automatizado</a> - O pipeline automatiza processos essenciais como checkout de código, instalação de dependências, execução de testes, construção de imagens Docker e deploy automático para um ambiente de produção.</li>
+  <li><a href="https://github.com/AlanBReis/ci-cd-aws-deploy">ci/cd AWS Deploy</a> - Este projeto demonstra a criação de um pipeline CI/CD completo para uma aplicação web de previsão do tempo em Flask e Docker. Utilizando GitHub Actions para automação de build, testes e deploy, o projeto integra Terraform e Ansible para provisionamento e configuração de infraestrutura na AWS, visando práticas avançadas de DevOps.</li>
+  
+  <li><a href="https://github.com/AlanBReis/ci-cd-pipeline-flask-deploy">ci-cd-pipeline-flask-deploy</a> - Este pipeline automatiza todo o ciclo de integração e entrega contínua (CI/CD), incluindo checkout de código, instalação de dependências, execução de testes, criação de imagens Docker, e deploy automatizado em ambientes de produção.</li>
+
   <!-- Adicione mais projetos aqui -->
 </ul>
 
