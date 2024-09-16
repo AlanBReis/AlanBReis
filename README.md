@@ -24,7 +24,7 @@
 <p align="left">
   <strong>DevOps:</strong> CI/CD, Docker, Kubernetes, AWS<br>
   <strong>Programação:</strong> Python, JavaScript, Bash<br>
-  <strong>Ferramentas:</strong> Git, Jenkins, Terraform
+  <strong>Ferramentas:</strong> Git, Jenkins, Terraform.
 </p>
 
 <h2 align="left">Social</h2>
