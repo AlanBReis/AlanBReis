@@ -45,7 +45,12 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AlanBReis&theme=merko&border_radius=5&locale=pt_BR" alt="GitHub Streak" /></a>
 </p>
 
+![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/c33f3234-841f-4b8c-b7d0-99d84bd17d17)
+
+
 <h2 align="left">Contribuições</h2>
 <p align="left">
   Se você tiver sugestões ou quiser colaborar, sinta-se à vontade para entrar em contato ou abrir um pull request em meus projetos!
 </p>
+
+![Finish](https://github.com/user-attachments/assets/cc615144-f815-481a-b801-20b425c72fa9)
