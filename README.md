@@ -1,6 +1,6 @@
 <h1 align="center">Oi, eu sou o Alan Reis</h1>
 <h3 align="center">DevOps Jr. | Automação e Nuvem</h3>
-<h3 align="center">Cursando Engenharia de Software com foco em DevOps. Confira meus projetos abaixo!</h3>
+<h3 align="center">Cursando Engenharia de Software com foco em DevOps. Confira meus projetos!</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=alanbreis&label=Profile%20views&color=0e75b6&style=flat" alt="alanbreis" /> 
