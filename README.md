@@ -1,5 +1,5 @@
 <h1 align="center">Oi, eu sou o Alan Reis</h1>
-<h3 align="center">DevOps Jr. | Automação e Nuvem</h3>
+<h3 align="center">DevOps Engineer | Automação, Cloud Computing</h3>
 <h3 align="center">Cursando Engenharia de Software com foco em DevOps. Confira meus projetos!</h3>
 
 <p align="left"> 
