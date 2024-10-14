@@ -8,7 +8,7 @@
 
 <h2 align="left">Sobre Mim</h2>
 <p align="left">
-  Sou DevOps, com experiência em automação e computação em nuvem. Atualmente, estou cursando Engenharia de Software e me dedico a expandir minhas habilidades em práticas de DevOps, como CI/CD, Docker e AWS. Acredito que aprender e crescer é um processo contínuo
+  Sou DevOps, com experiência em automação e computação em nuvem. Atualmente, estou cursando Engenharia de Software e me dedico a expandir minhas habilidades em práticas de DevOps, como CI/CD, Docker, Kubernetes, AWS e Microsoft Azure. Acredito que aprender e crescer é um processo contínuo
 </p>
 
 <h2 align="left">Projetos Destacados</h2>
@@ -22,7 +22,7 @@
 
 <h2 align="left">Habilidades e Tecnologias</h2>
 <p align="left">
-  <strong>DevOps:</strong> CI/CD, Docker, Kubernetes, AWS<br>
+  <strong>DevOps:</strong> CI/CD, Docker, Kubernetes, AWS e Azure<br>
   <strong>Programação:</strong> Python, JavaScript, Bash<br>
   <strong>Ferramentas:</strong> Git, Jenkins, Terraform.
 </p>
