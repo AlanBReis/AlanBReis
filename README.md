@@ -1,6 +1,5 @@
-<h1 align="center">Oi, eu sou o Alan Reis</h1>
-<h3 align="center">DevOps Engineer | Automação, Cloud Computing</h3>
-<h3 align="center">Cursando Engenharia de Software com foco em DevOps. Confira meus projetos!</h3>
+<h1 align="center">Alan Reis</h1>
+<h3 align="center">DevOps Engineer & Cloud Computing</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=alanbreis&label=Profile%20views&color=0e75b6&style=flat" alt="alanbreis" /> 
@@ -20,12 +19,22 @@
   <!-- Adicione mais projetos aqui -->
 </ul>
 
-<h2 align="left">Habilidades e Tecnologias</h2>
-<p align="left">
-  <strong>DevOps:</strong> CI/CD, Docker, Kubernetes, AWS e Azure<br>
-  <strong>Programação:</strong> Python, JavaScript, Bash<br>
-  <strong>Ferramentas:</strong> Git, Jenkins, Terraform.
-</p>
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  
+
+  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlanBReis&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlanBReis&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+
+ 
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,aws,docker,kubernetes,flask,py,go,javascript,typescript,css,html,react,github,linux," />
+</a>
+  <br />
+
+  </div>
 
 <h2 align="left">Social</h2>
 <p align="left">
@@ -54,3 +63,18 @@
 </p>
 
 ![Finish](https://github.com/user-attachments/assets/cc615144-f815-481a-b801-20b425c72fa9)
+
+
+
+
+
+
+
+ 
+  
+  
+
+  
+
+
+
