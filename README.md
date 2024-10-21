@@ -7,7 +7,7 @@
 
 <h2 align="left">Sobre Mim</h2>
 <p align="left">
-  Sou DevOps, com experiência em automação e computação em nuvem. Atualmente, estou cursando Engenharia de Software e me dedico a expandir minhas habilidades em práticas de DevOps, como CI/CD, Docker, Kubernetes, AWS e Microsoft Azure. Acredito que aprender e crescer é um processo contínuo
+  DevOps | SRE | Analista de Infraestrutura - Focado em Automação, CI/CD, Cloud (AWS, Azure) e Orquestração (Docker, Kubernetes). Acredito que aprender e crescer é um processo contínuo
 </p>
 
 <h2 align="left">Projetos Destacados</h2>
