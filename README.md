@@ -7,7 +7,7 @@
 
 <h2 align="left">Sobre Mim</h2>
 <p align="left">
-  DevOps | SRE | Analista de Infraestrutura - Focado em Automação, CI/CD, Cloud (AWS, Azure) e Orquestração (Docker, Kubernetes). Acredito que aprender e crescer é um processo contínuo
+  Focado em Automação, CI/CD, Cloud (AWS, Azure) e Orquestração (Docker, Kubernetes). Acredito que aprender e crescer é um processo contínuo
 </p>
 
 <h2 align="left">Projetos Destacados</h2>
