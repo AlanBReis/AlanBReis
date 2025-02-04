@@ -16,10 +16,9 @@
 
 <p> <a href="https://github.com/AlanBReis/ci-cd-aws-deploy">CI/CD AWS DEPLOY</a> - Este projeto demonstra a criação de um pipeline CI/CD completo para uma aplicação web de previsão do tempo em Flask e Docker. Utilizando GitHub Actions para automação de build, testes e deploy, o projeto integra Terraform e Ansible para provisionamento e configuração de infraestrutura na AWS, visando práticas avançadas de DevOps.</p>
 
+<p> <a href="https://github.com/AlanBReis/devops-monitoring-platform">DEVOPS MONITORING PLATFORM</a> - Uma plataforma de monitoramento em tempo real que exibe métricas de CPU e memória utilizando Flask. Projetada para ajudar equipes DevOps a acompanhar a saúde de seus sistemas e receber alertas sobre o estado dos serviços. </p>
   
- 
-  
- <p> <a href="https://github.com/AlanBReis/ci-cd-pipeline-flask-deploy">CI/CD FLASK DEPLOY</a> - Este pipeline automatiza todo o ciclo de integração e entrega contínua (CI/CD), incluindo checkout de código, instalação de dependências, execução de testes, criação de imagens Docker, e deploy automatizado em ambientes de produção.</p>
+ <p> <a href="https://github.com/AlanBReis/pipeline-automatizado">PIPELINE AUTOMATIZADO</a> - Este projeto demonstra a implementação de um pipeline CI/CD  utilizando GitHub Actions. O pipeline automatiza processos essenciais, como checkout de código, instalação de dependências, execução de testes, criação de imagens Docker e deploy automático para produção. Com foco em boas práticas de DevOps, este projeto serve como uma base  para integração e entrega contínua. </p>
 
 <p> <a href="https://github.com/AlanBReis/aws-study">ESTUDOS AWS</a> - Este repositório é uma coleção de estudos e anotações que estou criando enquanto me preparo para a certificação AWS Cloud Practitioner. O objetivo é consolidar o conhecimento adquirido e facilitar a revisão de conceitos.  </p>
 
