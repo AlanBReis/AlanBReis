@@ -21,6 +21,7 @@
   
  <p> <a href="https://github.com/AlanBReis/ci-cd-pipeline-flask-deploy">CI/CD FLASK DEPLOY</a> - Este pipeline automatiza todo o ciclo de integração e entrega contínua (CI/CD), incluindo checkout de código, instalação de dependências, execução de testes, criação de imagens Docker, e deploy automatizado em ambientes de produção.</p>
 
+<p> <a href="https://github.com/AlanBReis/aws-study">ESTUDOS AWS</a> - Este repositório é uma coleção de estudos e anotações que estou criando enquanto me preparo para a certificação AWS Cloud Practitioner. O objetivo é consolidar o conhecimento adquirido e facilitar a revisão de conceitos.  </p>
 
 
 <br>
