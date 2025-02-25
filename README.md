@@ -1,16 +1,24 @@
-<h1 align="center"><p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=alanbreis&label=Profile%20views&color=0e75b6&style=flat" alt="alanbreis" /> 
-</p>Alan Reis <br> DevOps Engineer</h1>
+<h1 align="center">
+  <p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=alanbreis&label=Profile%20views&color=0e75b6&style=flat" alt="alanbreis" /> 
+  </p>
+  Alan Reis <br> DevOps Engineer <br>
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+</h1>
 
-<br><br>
+
+<br>
 
 
 <h3 align="left"> 
-  AWS & AZURE <br>
   Focado em Automação CI/CD, Docker e Kubernetes. <br>
   Acredito que aprender e crescer é um processo contínuo
 </h3>
-<br><br>
+<br>
+
+
+<br>
 
 <h2 align="left">Projetos em Destaque</h2>
 
