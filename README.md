@@ -12,7 +12,7 @@
 
 
 <h3 align="left"> 
-  Focado em Automação CI/CD, Docker e Kubernetes. <br>
+  Focado em Automação CI/CD, Docker, Kubernetes e Terraform! <br>
   Acredito que aprender e crescer é um processo contínuo
 </h3>
 <br>
