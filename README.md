@@ -5,7 +5,10 @@
   Alan Reis <br> DevOps Engineer <br>
   <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </h1>
+
+
 
 
 <br>
