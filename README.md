@@ -4,12 +4,29 @@
   </p>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=249EF7&center=true&vCenter=true&width=435&lines=Alan+Reis" alt="Typing SVG" /></a>
   <br> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=701AF7&width=435&lines=Devops+Engineer+%2F+Cloud+Computing" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=truecolor=701AF7&width=435&lines=Data+Engineer+%2F+Cloud" alt="Typing SVG" /></a>
   <br>
   <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle%20Cloud%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </h1>
+
+<h2 align="center">👨‍💻 Sobre Mim</h2>
+<p align="center">
+  Engenheiro de Dados e DevOps com experiência em arquitetura de dados, processamento de grandes volumes de informações e automação de infraestrutura em nuvem (AWS e Azure). 
+  Possuo conhecimento em Big Data, ETL, bancos de dados distribuídos, Terraform, Kubernetes, Docker e Ansible. 
+  Atualmente, participo do Hackathon UniCesumar em parceria com o Google e fui aluno da Escola da Nuvem re/Start AWS.
+</p>
+
+<h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Ansible-003C30?style=for-the-badge&logo=ansible&logoColor=white">
+</p>
 
 
 
