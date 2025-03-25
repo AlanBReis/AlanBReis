@@ -33,7 +33,7 @@
 
 <br>
 
-<p align="left">🌍 Sou de Maringá-PR, Brasil<br>🎓 Cursando Engenharia de Software <br>⚡ Me dedico a Devops e Infraestrutura Cloud <br>🎯 Focado em Automação CI/CD, Docker, Kubernetes e Terraform! <br>✨ Acredito que aprender e crescer é um processo contínuo</p>
+<p align="left">🌍 Sou de Maringá-PR, Brasil<br>🎓 Cursando Engenharia de Software pela Unicesumar<br>⚡ Estou me dedicando a Engenharia de Dados e Cloud <br>✨ Acredito que aprender e crescer é um processo contínuo</p>
 
 <br>
 
