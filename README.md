@@ -49,8 +49,12 @@
 
 ##  Projetos em Destaque
 
+
+[![ANS Data Pipeline Airflow](https://img.shields.io/badge/ANS%20Data%20Pipeline%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://github.com/AlanBReis/ans-data-pipeline-airflow)  
+📌 **Descrição:** Processo automatizado para baixar um arquivo PDF de uma URL, extrair seus dados e organizar informações em planilhas. O PDF também é compactado em .zip para facilitar o armazenamento.  
+
 [![AWS Study](https://img.shields.io/badge/AWS%20Study-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/AlanBReis/aws-study)  
-📌 **Descrição:** Repositório com estudos e anotações para a certificação AWS Cloud Practitioner.  
+📌 **Descrição:** Repositório com estudos e anotações para certificações AWS, incluindo Cloud Practitioner e práticas avançadas.  
 
 [![CI/CD AWS Deploy](https://img.shields.io/badge/CI/CD%20AWS%20Deploy-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlanBReis/ci-cd-aws-deploy)  
 📌 **Descrição:** Pipeline CI/CD completo para uma aplicação Flask, utilizando GitHub Actions, Terraform e Ansible para automação na AWS.  
