@@ -51,7 +51,11 @@
 
 
 [![ANS Data Pipeline Airflow](https://img.shields.io/badge/ANS%20Data%20Pipeline%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://github.com/AlanBReis/ans-data-pipeline-airflow)  
-📌 **Descrição:** Processo automatizado para baixar um arquivo PDF de uma URL, extrair seus dados e organizar informações em planilhas. O PDF também é compactado em .zip para facilitar o armazenamento.  
+📌 **Descrição:** Processo automatizado para baixar um arquivo PDF de uma URL, extrair seus dados e organizar informações em planilhas. O PDF também é compactado em .zip para facilitar o armazenamento. 
+
+[![Spotify Playlist Analyzer](https://img.shields.io/badge/Spotify%20Playlist%20Analyzer-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://github.com/AlanBReis/spotify-data-analysis)  
+📌 **Descrição:** Projeto de visualização e exploração de dados musicais com base em playlists personalizadas, utilizando a API do Spotify, Python, Docker e Power BI para criar dashboards interativos com insights visuais.
+
 
 [![AWS Study](https://img.shields.io/badge/AWS%20Study-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/AlanBReis/aws-study)  
 📌 **Descrição:** Repositório com estudos e anotações para certificações AWS, incluindo Cloud Practitioner e práticas avançadas.  
