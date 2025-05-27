@@ -11,9 +11,6 @@
   <img src="https://img.shields.io/badge/Oracle%20Cloud%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </h1>
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXc5MnZuOHMzZzZjajV3dDRpeThkYjZudXg4eHk0ZDNoYWJnZWhsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fhAwk4DnqNgw8/giphy.gif" width="400">
-</p>
 <h2 align="center"> Sobre Mim</h2>
 <p align="center">
   Engenheiro de Dados com experiência em arquitetura de dados, processamento de grandes volumes de informações e automação de pipelines de dados em nuvem (AWS e Azure).
