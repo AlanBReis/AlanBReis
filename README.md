@@ -2,10 +2,6 @@
   <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=alanbreis&label=Profile%20views&color=0e75b6&style=flat" alt="alanbreis" /> 
   </p>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=249EF7&center=true&vCenter=true&width=435&lines=Alan+Reis" alt="Typing SVG" /></a>
-  <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=truecolor=701AF7&width=435&lines=Data+Engineer+%2F+Cloud" alt="Typing SVG" /></a>
-  <br>
   <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle%20Cloud%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white">
@@ -13,9 +9,12 @@
 
 <h2 align="center"> Sobre Mim</h2>
 <p align="center">
-  Engenheiro de Dados com experiência em arquitetura de dados, processamento de grandes volumes de informações e automação de pipelines de dados em nuvem (AWS e Azure).
-  Possuo conhecimento em Big Data, ETL/ELT, bancos de dados distribuídos, orquestração de fluxos de trabalho (Airflow), Spark e ferramentas de visualização de dados.
-  Atualmente, participo do Hackathon UniCesumar em parceria com o Google e fui aluno da Escola da Nuvem re/Start AWS.
+  Olá! Sou Alan Reis, estudante de Engenharia de Software pela Unicesumar e apaixonado por tecnologia. Tenho 34 anos e sou natural do interior do Paraná.
+  <br><br>
+  Atualmente, foco minha carreira em DevOps e Cloud, com interesse especial por automação de tarefas, infraestrutura como código e boas práticas de engenharia moderna.
+  <br><br>
+  Possuo certificações da AWS, Microsoft Azure e Oracle, e estou sempre buscando desafios que envolvam nuvem, CI/CD, observabilidade e confiabilidade.
+  <br>
 </p>
 
 <h2 align="center">️ Tecnologias e Ferramentas</h2>
@@ -36,7 +35,14 @@
 
 <br>
 
-<p align="left">🌍 Sou de Maringá-PR, Brasil<br>🎓 Cursando Engenharia de Software pela Unicesumar<br>⚡ Estou me dedicando a Engenharia de Dados e Cloud <br>✨ Acredito que aprender e crescer é um processo contínuo</p>
+<p align="left">
+  🌍 Maringá-PR, Brasil<br>
+  🎓 Estudante de Engenharia de Software (Unicesumar)<br>
+  ☁️ Certificado AWS, Azure e Oracle Cloud<br>
+  🛠️ Focado em DevOps, Cloud e automação<br>
+  🚀 Buscando oportunidades para crescer com times colaborativos<br>
+  📚 Acredito no aprendizado contínuo como pilar da evolução
+</p>
 
 <br>
 
@@ -72,7 +78,13 @@
 
 <p align="left">
   Se você tiver sugestões ou quiser colaborar, sinta-se à vontade para entrar em contato ou abrir um pull request em meus projetos!
+  
 </p>
+
+<p align="left">
+  📫 Você pode me encontrar no <a href="https://www.linkedin.com/in/alanbreis/">LinkedIn</a> ou enviar um e-mail para: contato@alanbreis.com
+</p>
+
 
 ![Finish](https://github.com/user-attachments/assets/cc615144-f815-481a-b801-20b425c72fa9)
 
