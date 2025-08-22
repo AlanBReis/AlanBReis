@@ -17,10 +17,17 @@
 
 <h2 align="center">Certificações</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <a href="https://www.credly.com/badges/c4cce4c6-7243-4c39-b0b7-a14f17710c92/linked_in?t=srja7r" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/ALANBORGESDOSREIS-2140/27CE7885A7B6F779?sharingId=7B7AF10CC4C9AFF5" target="_blank">
+    <img src="https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  </a>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=A988BC5FE44A81A3B119AC75CDBF688F300C9225F5B6CFB133DC26151DFF06D3" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle%20Cloud%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  </a>
 </p>
+
 
 
 <br>
