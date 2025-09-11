@@ -18,16 +18,19 @@
 
 
 
-## Projetos em Destaque
+## Projetos recentes de Processos Seletivos
 
-### [ANS Data Pipeline Airflow](https://github.com/AlanBReis/ans-data-pipeline-airflow)
-Processo automatizado para baixar PDFs, extrair dados e organizar planilhas. Compactação em .zip incluída para armazenamento.
+### [Desafio StartDB](https://github.com/AlanBReis/desafio-AlanBReis-2025)
+Desafio de JavaScript com testes automatizados para validar funcionalidades via npm test.
 
-### [Spotify Playlist Analyzer](https://github.com/AlanBReis/spotify-data-analysis)
-Visualização e exploração de dados musicais com playlists personalizadas. Python, Docker e Power BI para dashboards interativos.
+### [Desafio DreamSquad](https://github.com/AlanBReis/desafio-dreamsquad)
+Desafio DreamSquad: Infraestrutura com Terraform — site estático + S3, backend e frontend em Docker/EC2, e Lambda com CloudWatch.
 
-### [AWS Study](https://github.com/AlanBReis/aws-study)
-Anotações e estudos para certificações AWS, incluindo Cloud Practitioner e práticas avançadas.
+### [ProgramaLighthouse](https://github.com/AlanBReis/ProgramaLighthouse)
+Pipeline ETL com Apache Airflow para extrair dados de clientes (CSV e SQL) e carregar em Data Lake e Data Warehouse.
+
+### [Automacao Backup](https://github.com/AlanBReis/automacao-backup)
+Este projeto foi desenvolvido como solução para Automação de Ambientes Operacionais, que tem como objetivo automatizar o processo de gerenciamento de arquivos de backup em um servidor centralizado.
 <br><br>
 
 
