@@ -11,7 +11,7 @@
 </p>
 <p align="left">
   Minhas duas áreas de maior interesse são Engenharia de Dados e Devops <br>
-  Possuo certificações AWS, Azure e Oracle <br>
+  Possuo certificações AWS, Finops, Azure e Oracle <br>
   Portfolio: <a href="https://alanbreis.com" target="_blank">alanbreis.com</a>
 </p>
 
