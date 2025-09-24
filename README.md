@@ -23,7 +23,7 @@
 </a>
 
 <br><br>
-  Portfolio: <a href="https://alanbreis.com" target="_blank">alanbreis.com</a>
+## [Meu Portfolio](https://alanbreis.com/)
 </p>
 
 
