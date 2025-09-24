@@ -33,9 +33,18 @@ Pipeline ETL com Apache Airflow para extrair dados de clientes (CSV e SQL) e car
 Este projeto foi desenvolvido como solução para Automação de Ambientes Operacionais, que tem como objetivo automatizar o processo de gerenciamento de arquivos de backup em um servidor centralizado.
 <br><br>
 
+<p align="center">
+<img src="https://cdn.pixabay.com/animation/2025/06/03/04/09/04-09-45-17_512.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
 
+## Deixe uma estrela neste repositório
+Meu caro visitante, voce que chegou até aqui, por gentileza deixe uma estrela no repositório abaixo para que eu ganhe um achivement do github :D
+
+### [Repositório](https://github.com/AlanBReis/AlanBReis)
+</p>
+
+<br><br>
 <p align="left">
-  Você pode me encontrar no <a href="https://www.linkedin.com/in/alanbreis/">LinkedIn</a> ou enviar um e-mail para: contato@alanbreis.com
+  Você pode me encontrar no <a href="https://www.linkedin.com/in/alanbreis/">LinkedIn</a> ou também pode enviar um e-mail em: contato@alanbreis.com
 </p>
 
 
