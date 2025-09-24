@@ -22,10 +22,7 @@
   <img alt="Azure Fundamentals AZ-900 Badge" width="120px" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"/>
 </a>
 
-<br><br>
-## [Meu Portfolio](https://alanbreis.com/)
-</p>
-
+<br>
 
 
 
