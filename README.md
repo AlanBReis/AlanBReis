@@ -11,7 +11,18 @@
 </p>
 <p align="left">
   Minhas duas áreas de maior interesse são Engenharia de Dados e Devops <br>
-  Possuo certificações AWS, Finops, Azure e Oracle <br>
+  Minhas certificações:<br>
+<a href="https://www.credly.com/badges/c4cce4c6-7243-4c39-b0b7-a14f17710c92/linked_in?t=srja7r">
+  <img alt="AWS Cloud Practitioner Badge" width="160px" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
+</a>
+<a href="https://www.credly.com/badges/0801a959-72fd-41ea-8917-eca30b0fc8d0">
+  <img alt="Finops badge" width="160px" src="https://images.credly.com/size/340x340/images/08a5010a-0c0a-448c-981e-c116fedd380c/image.png"/>
+</a>
+<a href="https://learn.microsoft.com/pt-br/users/ALANBORGESDOSREIS-2140/credentials/27CE7885A7B6F779?ref=https%3a%2f%2falanbreis.com%2f">
+  <img alt="Azure Fundamentals AZ-900 Badge" width="160px" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"/>
+</a>
+
+<br><br>
   Portfolio: <a href="https://alanbreis.com" target="_blank">alanbreis.com</a>
 </p>
 
@@ -44,7 +55,7 @@ Meu caro visitante, voce que chegou até aqui, por gentileza deixe uma estrela n
 
 <br><br>
 <p align="left">
-  Você pode me encontrar no <a href="https://www.linkedin.com/in/alanbreis/">LinkedIn</a> ou também pode enviar um e-mail em: contato@alanbreis.com
+  Você pode me encontrar no <a href="https://www.linkedin.com/in/alanbreis/">LinkedIn</a> ou também pode enviar um E-mail em: <a href="mailto:contato@alanbreis.com">contato@alanbreis.com</a>
 </p>
 
 
