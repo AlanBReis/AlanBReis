@@ -42,7 +42,7 @@ Este projeto foi desenvolvido como solução para Automação de Ambientes Opera
 <br><br>
 
 <p align="center">
-<img src="https://cdn.pixabay.com/animation/2025/06/03/04/09/04-09-45-17_512.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
+<img src="https://cdn.pixabay.com/animation/2025/06/03/04/09/04-09-45-17_512.gif" alt="estrela" min-width="180px" max-width="180px" width="180px" align="center">
 
 ## Deixe uma estrela neste repositório
 Meu caro visitante, voce que chegou até aqui, por gentileza deixe uma estrela no repositório abaixo para que eu ganhe um achivement do github :D
