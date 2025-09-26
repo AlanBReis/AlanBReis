@@ -10,8 +10,8 @@
   Tive coragem de deixar uma grande empresa para seguir meu sonho antigo de ingressar na área de tecnologia.
 </p>
 <p align="left">
-  Minhas duas áreas de maior interesse são Engenharia de Dados e Devops <br>
-  Minhas certificações:<br>
+  Minha áreas de maior interesse é Engenharia de Dados <br>
+  Certificações:<br>
 <a href="https://www.credly.com/badges/c4cce4c6-7243-4c39-b0b7-a14f17710c92/linked_in?t=srja7r">
   <img alt="AWS Cloud Practitioner Badge" width="120px" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
 </a>
