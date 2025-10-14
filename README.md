@@ -11,22 +11,13 @@
 </p>
 <p align="left">
   Minha áreas de maior interesse é Engenharia de Dados <br>
-  Certificações:<br>
-<a href="https://www.credly.com/badges/c4cce4c6-7243-4c39-b0b7-a14f17710c92/linked_in?t=srja7r">
-  <img alt="AWS Cloud Practitioner Badge" width="120px" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
-</a>
-<a href="https://www.credly.com/badges/0801a959-72fd-41ea-8917-eca30b0fc8d0">
-  <img alt="Finops badge" width="120px" src="https://images.credly.com/size/340x340/images/08a5010a-0c0a-448c-981e-c116fedd380c/image.png"/>
-</a>
-<a href="https://learn.microsoft.com/pt-br/users/ALANBORGESDOSREIS-2140/credentials/27CE7885A7B6F779?ref=https%3a%2f%2falanbreis.com%2f">
-  <img alt="Azure Fundamentals AZ-900 Badge" width="120px" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"/>
-</a>
+
 
 <br>
 
 
 
-## Projetos recentes de Processos Seletivos
+## Desafios Técnicos recentes
 
 ### [Desafio StartDB](https://github.com/AlanBReis/desafio-AlanBReis-2025)
 Desafio de JavaScript com testes automatizados para validar funcionalidades via npm test.
@@ -41,10 +32,15 @@ Pipeline ETL com Apache Airflow para extrair dados de clientes (CSV e SQL) e car
 Este projeto foi desenvolvido como solução para Automação de Ambientes Operacionais, que tem como objetivo automatizar o processo de gerenciamento de arquivos de backup em um servidor centralizado.
 <br><br>
 
-<p align="center">
-<img src="https://cdn.pixabay.com/animation/2025/06/03/04/09/04-09-45-17_512.gif" alt="estrela" min-width="180px" max-width="180px" width="180px" align="center">
+Minhas Certificações: <br><br>
 
-Caro visitante, voce que chegou até aqui, por gentileza deixe uma estrela no repositório abaixo para que eu ganhe um achivement do github :D
+<a href="https://www.credly.com/badges/c4cce4c6-7243-4c39-b0b7-a14f17710c92/linked_in?t=srja7r"><img alt="AWS Cloud Practitioner Badge" width="120px" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a><a href="https://www.credly.com/badges/0801a959-72fd-41ea-8917-eca30b0fc8d0"><img alt="Finops badge" width="120px" src="https://images.credly.com/size/340x340/images/08a5010a-0c0a-448c-981e-c116fedd380c/image.png"/></a><a href="https://learn.microsoft.com/pt-br/users/ALANBORGESDOSREIS-2140/credentials/27CE7885A7B6F779?ref=https%3a%2f%2falanbreis.com%2f"><img alt="Azure Fundamentals AZ-900 Badge" width="120px" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"/></a>
+
+<br><br><br>
+<!-- <p align="center">
+<img src="https://cdn.pixabay.com/animation/2025/06/03/04/09/04-09-45-17_512.gif" alt="estrela" min-width="180px" max-width="180px" width="180px" align="center"> -->
+
+Caro visitante, voce que chegou até aqui, por gentileza deixe uma estrela neste repositório para que eu consiga chegar a 16 estrela e ganhar um achivement do github :D
 
 ### [Repositório](https://github.com/AlanBReis/AlanBReis)
 </p>
